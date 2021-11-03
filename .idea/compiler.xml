@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springbootregister" />
+        <module name="YoufanDataCollect" />
+        <module name="YoufanService" />
+        <module name="YoufanCommon" />
+        <module name="youfanregister" />
+        <module name="RealTime" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="RealTime" options="-parameters" />
+      <module name="YoufanCommon" options="-parameters" />
+      <module name="YoufanDataCollect" options="-parameters" />
+      <module name="YoufanService" options="-parameters" />
+      <module name="springbootregister" options="-parameters" />
+      <module name="youfanregister" options="-parameters" />
+    </option>
+  </component>
+</project>

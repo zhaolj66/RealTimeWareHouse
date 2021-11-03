@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RealTime" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RealTime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YoufanCommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YoufanCommon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YoufanDataCollect" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YoufanDataCollect/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YoufanService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YoufanService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootdemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootdemo/springbootregister" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootdemo/springbootregister/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootdemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootdemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youfanregister" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/youfanregister/src/main/java" charset="UTF-8" />
+  </component>
+</project>
